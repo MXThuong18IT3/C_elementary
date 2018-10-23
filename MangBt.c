@@ -29,4 +29,4 @@ int main(){
 		else dem++;
 	}
 	printf("Trong chuoi '%s' co %d ki tu.", chuoi, dem);
-}
+}//end main
